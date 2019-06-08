@@ -1,0 +1,10 @@
+{
+  "db": {
+    "port": 27017,
+    "url": "mongodb+srv://test:test@cluster0-dbhou.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "auth",
+    "name": "db",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
